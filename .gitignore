@@ -1,0 +1,60 @@
+# Windows system files
+NTUSER.DAT
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+
+# Windows user profile directories
+AppData/
+Application Data
+Cookies
+Local Settings
+NetHood
+PrintHood
+Recent
+SendTo
+Start Menu
+Templates
+
+# Tool/app config and cache directories
+.anaconda/
+.antigravity/
+.cache/
+.cagent/
+.claude/
+.claude.json
+.claude.json.backup
+.conda/
+.config/
+.copilot/
+.cursor/
+.dbclient/
+.docker/
+.gemini/
+.ipython/
+.local/
+.matplotlib/
+.ms-ad/
+.tobii/
+.vscode/
+miniconda3/
+
+# Personal/system folders
+Contacts/
+Creative Cloud Files*/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+Zotero/
+
+# Shell history and git config
+.bash_history
+.gitconfig
